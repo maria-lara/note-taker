@@ -37,6 +37,7 @@ module.exports = (app) => {
         updatedcurrentNotes();
         res.end("Note was deleted");
     });
+    
     // Function to update json when there are changes to the db
 
     function updatedcurrentNotes() {
