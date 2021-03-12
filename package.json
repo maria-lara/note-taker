@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An application for creating, viewing, saving, and deleting notes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/maria-lara/note-taker#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-lara/note-taker.git"
+  },
+  "author": "Maria Lara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/maria-lara/note-taker/issues"
+  }
+}
