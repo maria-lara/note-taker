@@ -4,7 +4,7 @@ var path = require("path");
 // Routing
 module.exports = (app) => {
 
-    // GET- return notes.html file
+    // GET - return notes.html file
     app.get('/notes', (req, res) => {
         res.sendFile(path.join(__dirname, '../public/notes.html'));
     });

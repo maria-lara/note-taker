@@ -17,8 +17,8 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "keywords": [],
   "bugs": {
     "url": "https://github.com/maria-lara/note-taker/issues"
-  }
+  },
+  "keywords": []
 }

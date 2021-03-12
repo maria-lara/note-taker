@@ -29,7 +29,7 @@ module.exports = (app) => {
         return console.log("New note has been added: "+ addedNote.title);
     });
 
-    // * DELETE - remove object by matching ID
+    // DELETE - remove object by matching ID
     app.delete('/api/notes/:id', (req, res) => {
         let currentNotesearch = currentNotes.find(({ id }) => id === JSON.parse(req.params.id));
 
