@@ -6,7 +6,7 @@ The purpose of this project was to build an application for note taking. Users c
 This project was generated using Node.js and utilizes the Inquirier package and Eexpress.
 
 Check it out for yourself:
-* [Check out a sample HTML file](https://maria-lara-note-taker.herokuapp.com/)
+* [Click here to start taking notes!](https://maria-lara-note-taker.herokuapp.com/)
 
 ## Installation
 This application is deployed to Heroku at: https://maria-lara-note-taker.herokuapp.com/. If running this from a local computer, the repository must first be cloned and run by inputting "node server.js" in the command line. This application can then be viewed in a browser by visiting "http://localhost:3000".
